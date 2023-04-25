@@ -1,7 +1,7 @@
 # Shell Scripting
 
 ## Introduction
-This project contains a collection of shell scripts that automate common tasks and improve productivity. The scripts are written in the Bash shell and are compatible with most Linux and Unix systems.
+This project contains a collection of shell scripts that automate common tasks such as network monitoring system,file management system and disk management system which improves productivity. The scripts are written in the Bash shell and are compatible with most Linux and Unix systems.
 
 ## Installation
 To install the scripts, simply download the project files and extract them to a directory of your choice. Make sure that the scripts have execute permissions (use the command chmod +x script.sh to add execute permissions).
